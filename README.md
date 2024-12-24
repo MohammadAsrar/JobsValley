@@ -1,4 +1,6 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+**Jobs Valley**
+
+This website is a dynamic job search platform designed to connect job seekers with their dream careers. Explore opportunities across various industries, filter jobs by preferences, and stay updated on the latest openings. Simplify your job hunt with ease and efficiency on Jobs Valley!
 
 ### Refer to videos below:
 
