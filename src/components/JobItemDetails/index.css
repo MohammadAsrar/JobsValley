@@ -1,0 +1,74 @@
+.job-dtl-main-cont {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+  padding: 50px;
+}
+
+.loading {
+  align-self: center;
+}
+
+.dtl-card {
+  background-color: #272727;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.visit {
+  color: #b6c5ff;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.paras-title {
+  margin-bottom: 30px;
+}
+
+.skills-ul {
+  width: 80%;
+  margin-top: 20px;
+}
+
+.skills-ul li {
+  width: 200px;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+
+.skills-ul li img {
+  margin-right: 10px;
+  width: 40px;
+}
+
+.life-comp {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.life-comp p {
+  width: 70%;
+}
+
+.load-job-d {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-job-d {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.failure-job-d img {
+  width: 400px;
+}

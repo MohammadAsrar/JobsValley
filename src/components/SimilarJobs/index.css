@@ -1,0 +1,15 @@
+.sim-li {
+  list-style: none;
+  background-color: #272727;
+  width: 300px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sim-btm-cont {
+  margin-top: auto;
+}

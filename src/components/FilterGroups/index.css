@@ -1,0 +1,69 @@
+.group-main-cont {
+  width: 25%;
+  padding: 20px 0;
+}
+
+.group-inner-cont {
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.profile-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-radius: 20px;
+  padding: 10px;
+  height: 280px;
+}
+
+.profile-cont h1 {
+  color: #6366f1;
+}
+
+.profile-cont p {
+  color: #2c364c;
+}
+
+.hr {
+  height: 2px;
+  color: #ffffff;
+  background-color: #ffffff;
+  outline: none;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.emp-li {
+  list-style: none;
+  display: flex;
+  cursor: pointer;
+}
+
+.emp-li input {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.inp-radio {
+  margin-right: 10px;
+}
+
+.group-main-cont label {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button-retry {
+  background-color: #4f46e5;
+  color: white;
+  border: 0;
+  outline: none;
+  width: 70px;
+  height: 30px;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,46 @@
+.job-li {
+  list-style: none;
+  background-color: #272727;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+
+.logo-cont h1 {
+  font-size: 20px;
+}
+
+.company-logo {
+  width: 50px;
+  margin-right: 15px;
+}
+
+.rating {
+  margin-right: 5px;
+}
+
+.loc-type {
+  margin: 0;
+  margin-right: 5px;
+}
+
+.lpa {
+  margin: 0;
+  margin-left: auto;
+}
+
+.location-p {
+  margin: 0;
+  margin-right: 20px;
+}
+
+.job-hr {
+  height: 2px;
+  border: none;
+  background-color: #ffffff;
+  outline: none;
+}

@@ -1,0 +1,14 @@
+.not-fd-frame {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.not-fd-frame img {
+  width: 400px;
+  margin-bottom: 20px;
+}
