@@ -426,6 +426,9 @@ Returns a response containing the job details
 - Roboto
 </details>
 
+### Prefer this website  
+[JobsValley](https://jobsvalley.ccbp.tech/)
+
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
